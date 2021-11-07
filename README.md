@@ -1,5 +1,8 @@
 # OpenMX-deb
 
+1. Download `deb` files of OpenMX from [v3.9.9-1](https://github.com/Ncmexp2717/OpenMX-deb/releases/tag/v3.9.9-1).
+2. Install them with `apt` or `dpkg`.
+
 ``` bash
 sudo apt install ./openmx_3.9.9-1_amd64.deb ./openmx-data_20211103-1_amd64.deb ./openmx-work_20211103-1_amd64.deb
 ```
